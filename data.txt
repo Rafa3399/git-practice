@@ -1,0 +1,3 @@
+Name: Rafa
+Age: 24
+Favorite Color: Red
